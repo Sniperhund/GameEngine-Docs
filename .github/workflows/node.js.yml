@@ -8,8 +8,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: redkubes/docusaurus-deploy-action@v1.2
         with:
-          node-version: '16'
           source-folder: ./
-          git-user: $SOME_USERNAME
+          git-user: Sniperhund
           git-password: ${{ secrets.GITHUB_TOKEN }}
           deployment-branch: gh-pages
