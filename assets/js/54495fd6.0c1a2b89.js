@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgame_engine_docs=self.webpackChunkgame_engine_docs||[]).push([[8871],{490:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/GameEngine-Docs/blog/tags/facebook","allTagsPath":"/GameEngine-Docs/blog/tags","count":1}')}}]);
